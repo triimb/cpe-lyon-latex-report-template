@@ -1,0 +1,8 @@
+This file reports the changes between versions
+
+-v0.0 First release
+
+-v0.1 Minor Fixes :
+    - Boolean to remove Abstract
+    - Horzintal lines between maintitle handle long texts
+    
